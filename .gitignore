@@ -1,0 +1,33 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# IDE generated files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.pidb
+*.booproj
+*.svd
+
+# OS files
+.DS_Store
+Thumbs.db
+# Pacotes comerciais/de terceiros: instalar separadamente pelo Unity Asset Store.
+/Assets/Hero Knight - Pixel Art/
+/Assets/Hero Knight - Pixel Art.meta
+/Assets/Bandits - Pixel Art/
+/Assets/Bandits - Pixel Art.meta
+/Assets/Cainos/
+/Assets/Cainos.meta
+/Assets/Fantasy Wooden GUI  Free/
+/Assets/Fantasy Wooden GUI  Free.meta
